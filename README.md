@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Papacodigo-cli
 
 This README outlines the details of collaborating on this Ember application.
@@ -51,3 +52,6 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+=======
+# papacodigo-cli
+>>>>>>> 5ee20efc420bc959926bb036ee237420f96df996
